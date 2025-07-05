@@ -26,11 +26,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here for Register, Login, Apartment Page, Comments, Forgot Password, etc.)*
-
----
 
 ## ⚙️ Setup Instructions
 
